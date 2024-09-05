@@ -4,7 +4,7 @@ import { FaChevronDown, FaChevronRight, FaPlus } from 'react-icons/fa';
 import Divider from './SideBar'
 
 const topics = ['tailwind', 'react','spring-boot','dirty-code'];
-const questions = ['heap-overflow', 'coing-problems'];
+const questions = ['heap-overflow', 'coding-problems'];
 const random = ['general','rules', 'joins','music','science'];
 
 const Channel = () => {
