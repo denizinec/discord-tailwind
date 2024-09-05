@@ -1,5 +1,7 @@
 # React, Tailwind, Vite Responsive - Discord Clone
 
+![img](https://github.com/user-attachments/assets/b29b78d9-45a1-4984-81b5-508fba967750)
+
 To initialize project:
 
 ### `npm install`
